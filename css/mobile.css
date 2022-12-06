@@ -1,0 +1,7 @@
+@media (min-width: 576px) {
+  .chungchi-box {
+    border-right-style: solid;
+    border-width: 2px;
+    border-color: #ffc107;
+  }
+}
